@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
+- 👨‍💻 All of my projects are available at []()
 
-- 📝 I regularly write articles on [https://medium.com/@yourusername/article-title](https://medium.com/@yourusername/article-title)
+- 📝 I regularly write articles on [https://medium.com/@hashinifernando](https://medium.com/@hashinifernando)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **hashinifdo04@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hashini-fernando-1195b0311/](https://www.linkedin.com/in/hashini-fernando-1195b0311/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
