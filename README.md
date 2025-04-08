@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashini Fernando</h1>
 <h3 align="center">A passionate IT undergraduate from University Of MoratuwaSri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashinidewmini&label=Profile%20views&color=0e75b6&style=flat" alt="hashinidewmini" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashinidewmini&label=Profile%20views&color=0e75b6&style=flat" alt="hashinidewmini" /> </p>
 
 - 🔭 I’m currently working on **shareIt (a donation platform)**
 
