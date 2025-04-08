@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Test project1**
-
-- 🤝 I’m looking for help with **Test project2**
-
 - 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
 
 - 📝 I regularly write articles on [https://medium.com/@yourusername/article-title](https://medium.com/@yourusername/article-title)
@@ -20,8 +16,6 @@
 - 📫 How to reach me **hashinifdo04@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-
-- ⚡ Fun fact **Call me as Hash**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
