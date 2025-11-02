@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development (MERN Stack)**
 
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
-
-- 📝 I regularly write articles on [https://medium.com/@hashinifernando](https://medium.com/@hashinifernando)
+- 📝 I write articles on [https://medium.com/@hashinifernando](https://medium.com/@hashinifernando)
 
 - 💬 Ask me about **Python**
 
