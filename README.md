@@ -166,8 +166,6 @@
 
 <div align="center">
 
-### Keep Learning. Keep Building. Keep Improving. 🚀
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&color=gradient" alt="Footer"/>
 
 </div>
