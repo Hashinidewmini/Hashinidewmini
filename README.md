@@ -22,9 +22,11 @@
   <a href="https://medium.com/@hashinifernando">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28" alt="Medium"/>
   </a>
-  <a href="mailto:hashinifdo04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
-  </a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hashinifdo04%40gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
+</a>
+
 </div>
 
 <br>
