@@ -48,7 +48,6 @@
 - ⚙️ Enthusiastic about **Software Architecture, System Design & Clean Code**
 - 🚀 Enjoy turning ideas into practical software solutions
 - ☁️ Exploring **Cloud Computing, DevOps & Site Reliability Engineering**
-- 🧠 Curious about **AI, Machine Learning & Cybersecurity**
 - 🌱 Continuously learning and improving through hands-on projects
 - ✍️ Writing about technology and software engineering on **Medium**
 
