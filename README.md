@@ -28,17 +28,31 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="382" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2Nja2MxM2F0N2NpaWFqYXB6YXNubDlmOXl1dndqMzdpM3ZmNDh2ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">🎓 IT Undergraduate at the University of Moratuwa 🇱🇰<br>💻 Aspiring Software Engineer with an interest in Full-Stack Development<br>⚙️ Enthusiastic about Software Architecture, System Design & Clean Code<br>🚀 Enjoy turning ideas into practical software solutions<br>☁️ Exploring Cloud Computing, DevOps & Site Reliability Engineering<br>🧠 Curious about Artificial Intelligence, Machine Learning & Cybersecurity<br>🌱 Continuously learning, building, and improving through hands-on projects<br>✍️ Writing about technology and software engineering on Medium</p>
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 IT Undergraduate at the University of Moratuwa 🇱🇰
+- 💻 Aspiring Software Engineer with an interest in Full-Stack Development
+- ⚙️ Enthusiastic about Software Architecture, System Design & Clean Code
+- 🚀 Enjoy turning ideas into practical software solutions
+- ☁️ Exploring Cloud Computing, DevOps & Site Reliability Engineering
+- 🧠 Curious about Artificial Intelligence, Machine Learning & Cybersecurity
+- 🌱 Continuously learning, building, and improving through hands-on projects
+- ✍️ Writing about technology and software engineering on Medium
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2Nja2MxM2F0N2NpaWFqYXB6YXNubDlmOXl1dndqMzdpM3ZmNDh2ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="420"/>
+</td>
+
+</tr>
+</table>
 
 ###
 
@@ -107,10 +121,6 @@
   <img src="https://raw.githubusercontent.com/Hashinidewmini/Hashinidewmini/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Hashinidewmini/Hashinidewmini/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Hashinidewmini/Hashinidewmini/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
